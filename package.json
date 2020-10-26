@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-axios",
+  "name": "@bufan/vue-cli-plugin-axios",
   "version": "1.0.0",
   "description": "vue-cli plugin to add axios in project",
   "main": "index.js",
