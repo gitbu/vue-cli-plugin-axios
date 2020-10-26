@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-plugin-axios",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to add axios in project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bufan",
+  "license": "ISC"
+}
